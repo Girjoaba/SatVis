@@ -6,7 +6,7 @@ Small passion project following the [Earth Engine Python tutorial](https://devel
 ## Vegetation Mask Applied to Romanian Mountains 
 ![Alt Text](satvis/images_romania/vegetation_mask_ro.png)
 
-## Semantically Labelled Romania Region 
+## Semantically Labelled Romanian Region 
 ![Alt Text](satvis/images_romania/2020/ro_lat43.5_lon27.0_2020-15-02.jpg)
 
 ## Lyon Temperature Change
